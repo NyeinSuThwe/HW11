@@ -1,4 +1,7 @@
-
+@font-face {
+font-family: "fright";
+src: url("./assets/");
+}
 
 * {
   margin: 0;
